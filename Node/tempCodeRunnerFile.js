@@ -1,1 +1,1 @@
-let path = require("path");
+fs.rm(File, { recursive: true, force: true })
